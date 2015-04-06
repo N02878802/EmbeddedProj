@@ -4,7 +4,7 @@
 * .project - Aptana project description (un-updated)
 
 ###Project data
-* DocumentationFormatted.docx - Documentation on all project activity so far.
+* DocumentationFormatted.docx - Documentation on all project activity so far
 * index.php - Website controller
 * models - Directory for all database interfacing php files
 * views - Directory for all displayed HTML files
