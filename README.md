@@ -9,6 +9,7 @@
 * views - Directory for all displayed HTML files
 * inc
 	* img - 7 image files
+* DocumentationFormatted - Documentation on all project activity so far.
 
 ###Website
 * http://cs.newpaltz.edu/~inglesec1/EmbeddedProj/
